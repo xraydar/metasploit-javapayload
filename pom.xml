@@ -5,7 +5,7 @@
 	<artifactId>Metasploit-JavaPayload-parent</artifactId>
 	<version>1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>JavaPayload for Metasploit (Parent project)</name>
+	<name>JavaPayload for Metasploit (Parent xryt)</name>
 	<url>http://www.metasploit.com/</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
